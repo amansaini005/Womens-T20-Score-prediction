@@ -1,0 +1,11 @@
+1. Logistic Regression:
+
+accuracy_score = 0.94
+
+2. Decision Tree Classifier:
+
+accuracy score = 0.9684064022268615
+
+3. Random forest classifier:
+
+accuracy_score = 0.9942936673625609
